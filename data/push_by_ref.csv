@@ -1,0 +1,3 @@
+event_hour,branch_category,push_count,total_commits,gold_ingested_at
+2024-01-01 15:00:00,main_branch,7114,12577,2026-05-14 21:46:34.793338
+2024-01-01 15:00:00,other_branch,4978,36161,2026-05-14 21:46:34.793338
